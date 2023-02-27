@@ -1,0 +1,19 @@
+footer {
+    background-color: black;
+    height: 250px;
+    text-align: center;
+}
+
+footer h1 {
+    color: brown;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 44px;
+}
+
+footer p {
+    color: #afa9a9;
+    font-size: 27px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

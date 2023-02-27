@@ -1,0 +1,256 @@
+/**donate today**/
+main {
+    width: 1100px;
+    margin-left: 350px;
+}
+
+.donate-today {
+    text-align: center;
+}
+
+.main-header {
+    font-size: 65px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: -9px;
+}
+
+.donate-today p {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: #545454;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.donate-today-box {
+    display: flex;
+    margin-left: 122px;
+}
+
+.donate-today-name {
+    margin: 10px;
+    width: 150px;
+    height: 110px;
+    background-color: #f5f5f5;
+}
+
+.donate-today-name h2 {
+    text-align: center;
+    margin-top: 36px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    color: #585858;
+}
+
+.donate-today button {
+    color: #ffffff;
+    background-color: #ff6559;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+}
+
+.amount-bar {
+    margin-bottom: 21px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ada7a7;
+    margin-top: 60px;
+    font-style: normal;
+
+}
+
+.donate-today-name1 {
+    margin: 10px;
+    width: 150px;
+    height: 110px;
+    background-color: #fbe1e1;
+    border: 2px solid red;
+}
+
+.donate-today-name1 h2 {
+    text-align: center;
+    margin-top: 36px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    color: #fc3131;
+}
+
+/****/
+.donate-plan {
+    text-align: center;
+    margin-top: 111px;
+}
+
+.donate-discrip {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: #545454;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.donate-plan-box {
+    display: flex;
+}
+
+.donate-plan-name1 {
+    width: 321px;
+    margin: 8px;
+    padding: 15px;
+    background-color: #edfbff;
+    text-align: left;
+    border-radius: 8px;
+}
+
+.donate-plan-name1 img {
+    margin-top: 35px;
+}
+
+.dpn {
+    margin-left: px;
+    font-size: 24px;
+}
+
+.dpnp {
+    font-size: 22px;
+}
+
+.donate-plan-name2 {
+    width: 321px;
+    margin: 8px;
+    padding: 15px;
+    background-color: #ffebeb;
+    text-align: left;
+    border-radius: 8px;
+}
+
+.donate-plan-name2 img {
+    margin-top: 35px;
+}
+
+.donate-plan-name3 {
+    width: 321px;
+    margin: 8px;
+    padding: 15px;
+    background-color: #f1f1e2;
+    text-align: left;
+    border-radius: 8px;
+}
+
+.donate-plan-name3 img {
+    margin-top: 35px;
+}
+
+/*lives-depend*/
+.lives-depend {
+    margin-top: 111px;
+    display: flex;
+}
+
+.phot {
+    width: 500px;
+    margin-left: 41px;
+}
+
+.phot img {
+    width: 558px;
+    height: 432px;
+}
+
+.deffination {
+    width: 500px;
+}
+
+.lives-header {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lives-par {
+    font-size: 24px;
+    color: #747373;
+    margin-bottom: 37px;
+}
+
+.deffination button {
+    color: #ffffff;
+    background-color: #ff6559;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*to-suvive*/
+
+.to-suvive {
+    display: flex;
+    margin-top: 111px;
+}
+
+.photu {
+    width: 500px;
+    margin-right: 105px;
+}
+
+.photu img {
+    width: 558px;
+    height: 432px;
+}
+
+/*Updates*/
+
+.Updates {
+    text-align: center;
+    margin-top: 111px;
+}
+
+.Updates h1 {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.Updates p {
+    font-size: 24px;
+    color: #747373;
+}
+
+#mailar {
+    border: none;
+    background-color: #cdcdcd;
+    color: #545454;
+    padding: 15px;
+    font-size: 20px;
+    width: 345px;
+    height: 40px;
+    margin-top: 99px;
+    border-radius: 8px;
+}
+
+.subc {
+    background-color: #e3e3cc;
+    height: 245px;
+    margin-top: 50px;
+}
+
+.subc button {
+    color: #ffffff;
+    background-color: #ff6559;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: -3px;
+}
